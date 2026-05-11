@@ -127,7 +127,7 @@ else:
 ### OUTPUT
 #### For sample 1
 
-<img width="1114" height="637" alt="image" src="https://github.com/user-attachments/assets/7af10320-6c13-4171-8792-890cc239e3de" />
+<img width="900" height="637" alt="image" src="https://github.com/user-attachments/assets/7af10320-6c13-4171-8792-890cc239e3de" />
 
 #### For sample 2
 
