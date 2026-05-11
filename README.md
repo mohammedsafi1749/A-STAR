@@ -131,6 +131,7 @@ else:
 
 #### For sample 2
 
+<img width="533" height="377" alt="image" src="https://github.com/user-attachments/assets/eb82d751-6a27-4ce9-8372-4031efd791f5" />
 
 ### RESULT
 Thus , A* search algorithm is implemented for the given graph using python.
